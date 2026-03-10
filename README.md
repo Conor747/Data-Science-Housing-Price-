@@ -6,6 +6,7 @@ The goal of this project is to develop a predictive model that estimates house p
 
 📊 Dataset
 The data used in this project is sourced from the House Prices - Advanced Regression Techniques competition on Kaggle.
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
 
 Note: Due to Kaggle's terms of use, the raw data files are not hosted in this repository. Please download them directly from the link above.
 
