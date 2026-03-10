@@ -4,6 +4,11 @@ This repository contains a comprehensive data science workflow aimed at predicti
 📌 Project Overview
 The goal of this project is to develop a predictive model that estimates house prices based on various features (such as square footage, neighborhood, and property condition). This type of analysis is crucial for stakeholders in the real estate and financial technology (FinTech) sectors to make data-driven investment decisions.
 
+📊 Dataset
+The data used in this project is sourced from the House Prices - Advanced Regression Techniques competition on Kaggle.
+
+Note: Due to Kaggle's terms of use, the raw data files are not hosted in this repository. Please download them directly from the link above.
+
 🛠️ Technologies Used
 Language: Python 3.x
 
